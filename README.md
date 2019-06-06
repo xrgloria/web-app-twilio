@@ -37,7 +37,7 @@ set TWILIO_NUMBER=twilio_phone_number
 12. log into Twilio account and go to your [Twilio phone number(s)](https://www.twilio.com/console/phone-numbers/incoming) under "All Products & Services"
 13. at the base of the directory run ```npm run dev``` to run both the react client and express server
 14. have fun sending and receiving texts!!
-
+15. Open [http://localhost:3000](http://localhost:3000) to view the app.
 
 ## Available Scripts
 
