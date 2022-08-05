@@ -7,7 +7,7 @@
     "bootstrap": "^4.3.1",
     "express": "^4.17.1",
     "jquery": "^3.4.1",
-    "mongoose": "^5.5.13",
+    "mongoose": "^5.7.5",
     "popper.js": "^1.14.7",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
